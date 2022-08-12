@@ -1,3 +1,3 @@
-module myfomod
+module mygomod
 
 go 1.18
