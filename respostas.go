@@ -1,6 +1,6 @@
 package respostas
 
-type Resposta struct {
+type aluno struct {
 	nome  string
 	idade int
 }
